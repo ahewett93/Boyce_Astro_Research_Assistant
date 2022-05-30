@@ -13,6 +13,6 @@ the target selection process and give preliminary analysis of candidates.</p>
 Washington Double Star Catalog that is maintained by the US Naval Observatory. The additional data comes the GAIA DR2, 
 an analysis done by Richard Harshaw, and work done by Alex Hewett. </p>
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ahewett93/boyce_astro_research_assistant/blob/master/BARA_landing.PNG?raw=true)
 <br><br>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ahewett93/boyce_astro_research_assistant/blob/master/BARA_results.PNG?raw=true)
